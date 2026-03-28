@@ -1,4 +1,4 @@
-name: Connect 4
+name: Tic Tac Toe
 
 on:
   issues:
@@ -10,9 +10,9 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-      
+
       - name: Play Game
-        uses: jonathangin/connect4-action@v1.2.2
+        uses: vivancos/tictactoe-action@v1
         with:
           issue-number: ${{ github.event.issue.number }}
           github-token: ${{ secrets.GITHUB_TOKEN }}
