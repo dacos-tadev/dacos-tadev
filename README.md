@@ -53,33 +53,6 @@ I am a **Software Development student (DAW)** currently finishing my first year.
 
 ---
 
-### 🕹️ Play Tic-Tac-Toe!
-*Challenge me to a game of Tic-Tac-Toe! Click a square to make your move.*
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/dacos-tadev/dacos-tadev/main/tictactoe.svg" alt="Tic Tac Toe Board" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/dacos-tadev/dacos-tadev/issues/new?title=tictactoe|0|0&body=Just+click+'Submit+new+issue'.">Top-Left</a> | 
-  <a href="https://github.com/dacos-tadev/dacos-tadev/issues/new?title=tictactoe|0|1&body=Just+click+'Submit+new+issue'.">Top-Center</a> | 
-  <a href="https://github.com/dacos-tadev/dacos-tadev/issues/new?title=tictactoe|0|2&body=Just+click+'Submit+new+issue'.">Top-Right</a>
-  <br>
-  <a href="https://github.com/dacos-tadev/dacos-tadev/issues/new?title=tictactoe|1|0&body=Just+click+'Submit+new+issue'.">Middle-Left</a> | 
-  <a href="https://github.com/dacos-tadev/dacos-tadev/issues/new?title=tictactoe|1|1&body=Just+click+'Submit+new+issue'.">Middle-Center</a> | 
-  <a href="https://github.com/dacos-tadev/dacos-tadev/issues/new?title=tictactoe|1|2&body=Just+click+'Submit+new+issue'.">Middle-Right</a>
-  <br>
-  <a href="https://github.com/dacos-tadev/dacos-tadev/issues/new?title=tictactoe|2|0&body=Just+click+'Submit+new+issue'.">Bottom-Left</a> | 
-  <a href="https://github.com/dacos-tadev/dacos-tadev/issues/new?title=tictactoe|2|1&body=Just+click+'Submit+new+issue'.">Bottom-Center</a> | 
-  <a href="https://github.com/dacos-tadev/dacos-tadev/issues/new?title=tictactoe|2|2&body=Just+click+'Submit+new+issue'.">Bottom-Right</a>
-</p>
-
-<p align="center">
-  <em>The bot will respond automatically. Good luck!</em>
-</p>
-
----
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dacos-tadev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
