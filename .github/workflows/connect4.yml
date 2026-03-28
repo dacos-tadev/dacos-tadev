@@ -8,9 +8,9 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - title: Checkout
+      - name: Checkout
         uses: actions/checkout@v2
-      - title: Play Game
+      - name: Play Game
         uses: trinib/connect4-action@v1.1
         with:
           issue-number: ${{ github.event.issue.number }}
