@@ -53,16 +53,25 @@ I am a **Software Development student (DAW)** currently finishing my first year.
 
 ---
 
-### 🕹️ Take a Break: Play Tic-Tac-Toe!
-Do you have 30 seconds? Try to beat the CPU (or a friend) directly here!
-> **Note:** This is a fun community-driven widget. Click the squares to play!
+### 🕹️ Play Connect 4!
+*Challenge me to a game of Connect 4! Click a column number to drop your disc. The game is powered by GitHub Actions!*
 
 <p align="center">
-  <a href="https://play-tictactoe.org/" target="_blank">
-    <img src="https://play-tictactoe.org/og-tictactoe.png" width="300" alt="Play Tic Tac Toe" />
-    <br>
-    Click here to play in a new tab! 🚀
-  </a>
+  <img src="https://raw.githubusercontent.com/dacos-tadev/dacos-tadev/main/data/connect4.svg" alt="Connect 4 Board" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/dacos-tadev/dacos-tadev/issues/new?title=connect4|1&body=Just+click+'Submit+new+issue'.+The+bot+will+handle+the+rest!"><strong>[ 1 ]</strong></a> | 
+  <a href="https://github.com/dacos-tadev/dacos-tadev/issues/new?title=connect4|2&body=Just+click+'Submit+new+issue'.+The+bot+will+handle+the+rest!"><strong>[ 2 ]</strong></a> | 
+  <a href="https://github.com/dacos-tadev/dacos-tadev/issues/new?title=connect4|3&body=Just+click+'Submit+new+issue'.+The+bot+will+handle+the+rest!"><strong>[ 3 ]</strong></a> | 
+  <a href="https://github.com/dacos-tadev/dacos-tadev/issues/new?title=connect4|4&body=Just+click+'Submit+new+issue'.+The+bot+will+handle+the+rest!"><strong>[ 4 ]</strong></a> | 
+  <a href="https://github.com/dacos-tadev/dacos-tadev/issues/new?title=connect4|5&body=Just+click+'Submit+new+issue'.+The+bot+will+handle+the+rest!"><strong>[ 5 ]</strong></a> | 
+  <a href="https://github.com/dacos-tadev/dacos-tadev/issues/new?title=connect4|6&body=Just+click+'Submit+new+issue'.+The+bot+will+handle+the+rest!"><strong>[ 6 ]</strong></a> | 
+  <a href="https://github.com/dacos-tadev/dacos-tadev/issues/new?title=connect4|7&body=Just+click+'Submit+new+issue'.+The+bot+will+handle+the+rest!"><strong>[ 7 ]</strong></a>
+</p>
+
+<p align="center">
+  <em>Click a number to make your move! A GitHub Action will update the board automatically.</em>
 </p>
 
 ---
