@@ -53,25 +53,29 @@ I am a **Software Development student (DAW)** currently finishing my first year.
 
 ---
 
-### 🕹️ Play Connect 4!
-*Challenge me to a game of Connect 4! Click a column number to drop your disc. The game is powered by GitHub Actions!*
+### 🕹️ Play Tic-Tac-Toe!
+*Challenge me to a game of Tic-Tac-Toe! Click a square to make your move.*
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dacos-tadev/dacos-tadev/main/data/connect4.svg" alt="Connect 4 Board" />
+  <img src="https://raw.githubusercontent.com/dacos-tadev/dacos-tadev/main/tictactoe.svg" alt="Tic Tac Toe Board" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/dacos-tadev/dacos-tadev/issues/new?title=connect4|1&body=Just+click+'Submit+new+issue'.+The+bot+will+handle+the+rest!"><strong>[ 1 ]</strong></a> | 
-  <a href="https://github.com/dacos-tadev/dacos-tadev/issues/new?title=connect4|2&body=Just+click+'Submit+new+issue'.+The+bot+will+handle+the+rest!"><strong>[ 2 ]</strong></a> | 
-  <a href="https://github.com/dacos-tadev/dacos-tadev/issues/new?title=connect4|3&body=Just+click+'Submit+new+issue'.+The+bot+will+handle+the+rest!"><strong>[ 3 ]</strong></a> | 
-  <a href="https://github.com/dacos-tadev/dacos-tadev/issues/new?title=connect4|4&body=Just+click+'Submit+new+issue'.+The+bot+will+handle+the+rest!"><strong>[ 4 ]</strong></a> | 
-  <a href="https://github.com/dacos-tadev/dacos-tadev/issues/new?title=connect4|5&body=Just+click+'Submit+new+issue'.+The+bot+will+handle+the+rest!"><strong>[ 5 ]</strong></a> | 
-  <a href="https://github.com/dacos-tadev/dacos-tadev/issues/new?title=connect4|6&body=Just+click+'Submit+new+issue'.+The+bot+will+handle+the+rest!"><strong>[ 6 ]</strong></a> | 
-  <a href="https://github.com/dacos-tadev/dacos-tadev/issues/new?title=connect4|7&body=Just+click+'Submit+new+issue'.+The+bot+will+handle+the+rest!"><strong>[ 7 ]</strong></a>
+  <a href="https://github.com/dacos-tadev/dacos-tadev/issues/new?title=tictactoe|0|0&body=Just+click+'Submit+new+issue'.">Top-Left</a> | 
+  <a href="https://github.com/dacos-tadev/dacos-tadev/issues/new?title=tictactoe|0|1&body=Just+click+'Submit+new+issue'.">Top-Center</a> | 
+  <a href="https://github.com/dacos-tadev/dacos-tadev/issues/new?title=tictactoe|0|2&body=Just+click+'Submit+new+issue'.">Top-Right</a>
+  <br>
+  <a href="https://github.com/dacos-tadev/dacos-tadev/issues/new?title=tictactoe|1|0&body=Just+click+'Submit+new+issue'.">Middle-Left</a> | 
+  <a href="https://github.com/dacos-tadev/dacos-tadev/issues/new?title=tictactoe|1|1&body=Just+click+'Submit+new+issue'.">Middle-Center</a> | 
+  <a href="https://github.com/dacos-tadev/dacos-tadev/issues/new?title=tictactoe|1|2&body=Just+click+'Submit+new+issue'.">Middle-Right</a>
+  <br>
+  <a href="https://github.com/dacos-tadev/dacos-tadev/issues/new?title=tictactoe|2|0&body=Just+click+'Submit+new+issue'.">Bottom-Left</a> | 
+  <a href="https://github.com/dacos-tadev/dacos-tadev/issues/new?title=tictactoe|2|1&body=Just+click+'Submit+new+issue'.">Bottom-Center</a> | 
+  <a href="https://github.com/dacos-tadev/dacos-tadev/issues/new?title=tictactoe|2|2&body=Just+click+'Submit+new+issue'.">Bottom-Right</a>
 </p>
 
 <p align="center">
-  <em>Click a number to make your move! A GitHub Action will update the board automatically.</em>
+  <em>The bot will respond automatically. Good luck!</em>
 </p>
 
 ---
